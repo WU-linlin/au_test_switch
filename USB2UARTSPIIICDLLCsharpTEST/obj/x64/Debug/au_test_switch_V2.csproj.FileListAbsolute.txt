@@ -1,0 +1,8 @@
+D:\au_test_switch_V2\USB2UARTSPIIICDLLCsharpTEST\bin\x64\Debug\au_test_switch_V2.exe.config
+D:\au_test_switch_V2\USB2UARTSPIIICDLLCsharpTEST\bin\x64\Debug\au_test_switch_V2.exe
+D:\au_test_switch_V2\USB2UARTSPIIICDLLCsharpTEST\bin\x64\Debug\au_test_switch_V2.pdb
+D:\au_test_switch_V2\USB2UARTSPIIICDLLCsharpTEST\obj\x64\Debug\USB2UARTSPIIICDLLCsharpTEST.Form1.resources
+D:\au_test_switch_V2\USB2UARTSPIIICDLLCsharpTEST\obj\x64\Debug\au_test_switch_V2.Properties.Resources.resources
+D:\au_test_switch_V2\USB2UARTSPIIICDLLCsharpTEST\obj\x64\Debug\au_test_switch_V2.csproj.GenerateResource.Cache
+D:\au_test_switch_V2\USB2UARTSPIIICDLLCsharpTEST\obj\x64\Debug\au_test_switch_V2.exe
+D:\au_test_switch_V2\USB2UARTSPIIICDLLCsharpTEST\obj\x64\Debug\au_test_switch_V2.pdb
